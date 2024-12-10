@@ -1,0 +1,107 @@
+[
+    {
+      "_id": "feed_mwut3_0",
+      "userId": "mwut3",
+      "imageUrl": [
+        "https://res.cloudinary.com/dz9gxtvp9/image/upload/samples/dessert-on-a-plate",
+        "https://res.cloudinary.com/dz9gxtvp9/image/upload/samples/breakfast",
+        "https://res.cloudinary.com/dz9gxtvp9/image/upload/samples/coffee"
+      ],
+      "caption": "Just enjoying a peaceful morning with my coffee and some good vibes ☕ #morningroutine #coffee",
+      "tags": ["coffee", "nature", "art"],
+      "comments": [
+        {
+          "userId": "OWyfg",
+          "comment": "This picture is absolutely stunning! The colors and composition are on point."
+        },
+        {
+          "userId": "uid001",
+          "comment": "Wow, what a fantastic capture! I can feel the emotion through this image."
+        }
+      ],
+      "likes": [
+        { "userId": "OWyfg" },
+        { "userId": "uid001" }
+      ],
+      "createdAt": "2024-11-17T10:00:00.000Z"
+    },
+    {
+      "_id": "feed_OWyfg_1",
+      "userId": "OWyfg",
+      "imageUrl": [
+        "https://res.cloudinary.com/dz9gxtvp9/image/upload/samples/food/spices",
+        "https://res.cloudinary.com/dz9gxtvp9/image/upload/samples/food/fish-vegetables"
+      ],
+      "caption": "Had the best time exploring new recipes today! 🍽️ #FoodieLife #CookingAdventures",
+      "tags": ["food", "travel"],
+      "comments": [
+        {
+          "userId": "uid005",
+          "comment": "The vibe of this picture is incredible. You've truly captured something special."
+        }
+      ],
+      "likes": [
+        { "userId": "uid006" },
+        { "userId": "uid007" }
+      ],
+      "createdAt": "2024-11-17T10:05:00.000Z"
+    },
+    {
+      "_id": "feed_uid001_2",
+      "userId": "uid001",
+      "imageUrl": [
+        "https://res.cloudinary.com/dz9gxtvp9/image/upload/samples/food/dessert",
+        "https://res.cloudinary.com/dz9gxtvp9/image/upload/samples/food/pot-mussels"
+      ],
+      "caption": "Nature at its finest 🌿 Couldn't resist taking a snap of this beautiful scenery. #NatureLovers",
+      "tags": ["nature", "travel", "art"],
+      "comments": [
+        {
+          "userId": "uid002",
+          "comment": "I love this! Such an amazing shot. I’ve never seen something like this before!"
+        }
+      ],
+      "likes": [
+        { "userId": "uid005" }
+      ],
+      "createdAt": "2024-11-17T10:10:00.000Z"
+    },
+    {
+      "_id": "feed_uid002_3",
+      "userId": "uid002",
+      "imageUrl": [
+        "https://res.cloudinary.com/dz9gxtvp9/image/upload/samples/people/kitchen-bar"
+      ],
+      "caption": "A little bit of spice and everything nice 🌶️🍜 #SpicyLife #FoodGoals",
+      "tags": ["food", "tech"],
+      "comments": [
+        {
+          "userId": "uid001",
+          "comment": "Such a creative and unique perspective. Keep sharing more!"
+        }
+      ],
+      "likes": [
+        { "userId": "OWyfg" }
+      ],
+      "createdAt": "2024-11-17T10:15:00.000Z"
+    },
+    {
+      "_id": "feed_uid005_4",
+      "userId": "uid005",
+      "imageUrl": [
+        "https://res.cloudinary.com/dz9gxtvp9/image/upload/samples/food/seafood"
+      ],
+      "caption": "Sunset and seafood - what more can I ask for? 🌅🍤 #BeachLife #SeafoodLovers",
+      "tags": ["food", "travel", "beach"],
+      "comments": [
+        {
+          "userId": "uid002",
+          "comment": "I can’t stop looking at this. Everything about this photo is perfect!"
+        }
+      ],
+      "likes": [
+        { "userId": "uid001" }
+      ],
+      "createdAt": "2024-11-17T10:20:00.000Z"
+    }
+  ]

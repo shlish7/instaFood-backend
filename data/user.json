@@ -1,0 +1,92 @@
+[
+  {
+    "fullname": "Emma Johnson",
+    "imgUrl": "https://res.cloudinary.com/dz9gxtvp9/image/upload/v1726938643/cld-sample.jpg",
+    "password": "fhgj",
+    "username": "emma_j",
+    "_id": "mwut3",
+    "following": ["OWyfg", "uid001", "uid002"],
+    "followers": ["OWyfg", "uid001", "uid002"]
+  },
+  {
+    "fullname": "Liam Smith",
+    "imgUrl": "https://res.cloudinary.com/dz9gxtvp9/image/upload/8-Fun-Facts-About-Your-Dog-s-Ears_i3fnw8.png",
+    "password": "hv",
+    "username": "liam_dogs",
+    "_id": "OWyfg",
+    "following": ["OWyfg", "uid001", "uid002"],
+    "followers": ["OWyfg", "uid001", "uid002"]
+  },
+  {
+    "fullname": "Olivia Brown",
+    "imgUrl": "https://res.cloudinary.com/dz9gxtvp9/image/upload/v1726938643/samples/woman-on-a-football-field.jpg",
+    "password": "password1",
+    "username": "livbrownie",
+    "_id": "uid001",
+    "following": ["OWyfg", "uid001", "uid002"],
+    "followers": ["OWyfg", "uid001", "uid002"]
+  },
+  {
+    "fullname": "Noah Williams",
+    "imgUrl": "https://res.cloudinary.com/dz9gxtvp9/image/upload/v1726938643/samples/upscale-face-1.jpg",
+    "password": "password2",
+    "username": "noah_will",
+    "_id": "uid002",
+    "following": ["OWyfg", "uid001", "uid002"],
+    "followers": ["OWyfg", "uid001", "uid002"]
+  },
+  {
+    "fullname": "Sophia Davis",
+    "imgUrl": "https://res.cloudinary.com/dz9gxtvp9/image/upload/v1726938642/samples/smile.jpg",
+    "password": "mock123",
+    "username": "sophi_smile",
+    "_id": "uid005",
+    "following": ["OWyfg", "uid001", "uid002"],
+    "followers": ["OWyfg", "uid001", "uid002"]
+  },
+  {
+    "fullname": "James Miller",
+    "imgUrl": "https://res.cloudinary.com/dz9gxtvp9/image/upload/v1726938642/samples/man-portrait.jpg",
+    "password": "mock456",
+    "username": "james_mil",
+    "_id": "uid006",
+    "following": ["OWyfg", "uid001", "uid002"],
+    "followers": ["OWyfg", "uid001", "uid002"]
+  },
+  {
+    "fullname": "Isabella Wilson",
+    "imgUrl": "https://res.cloudinary.com/dz9gxtvp9/image/upload/v1726938642/samples/man-on-a-street.jpg",
+    "password": "randompass5",
+    "username": "bella_street",
+    "_id": "uid007",
+    "following": ["OWyfg", "uid001", "uid002"],
+    "followers": ["OWyfg", "uid001", "uid002"]
+  },
+  {
+    "fullname": "Lucas Martinez",
+    "imgUrl": "https://res.cloudinary.com/dz9gxtvp9/image/upload/v1726938642/samples/man-on-a-escalator.jpg",
+    "password": "randompass6",
+    "username": "lucas_up",
+    "_id": "uid008",
+    "following": ["OWyfg", "uid001", "uid002"],
+    "followers": ["OWyfg", "uid001", "uid002"]
+  },
+  {
+    "fullname": "Mia Anderson",
+    "imgUrl": "https://res.cloudinary.com/dz9gxtvp9/image/upload/v1726938642/samples/outdoor-woman.jpg",
+    "password": "pass7",
+    "username": "mia_outdoors",
+    "_id": "uid009",
+    "following": ["OWyfg", "uid001", "uid002"],
+    "followers": ["OWyfg", "uid001", "uid002"]
+  },
+  {
+    "fullname": "Ethan Hernandez",
+    "imgUrl": "https://res.cloudinary.com/dz9gxtvp9/image/upload/v1726938642/samples/look-up.jpg",
+    "password": "pass8",
+    "username": "ethan_look",
+    "_id": "uid010",
+    "following": ["OWyfg", "uid001", "uid002"],
+    "followers": ["OWyfg", "uid001", "uid002"]
+  }
+];
