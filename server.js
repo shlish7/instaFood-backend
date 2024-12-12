@@ -20,7 +20,7 @@ app.use(express.json())
 
 app.use(express.static(path.resolve('public')))
 
-if (process.env.NODE_ENV === 'staging') {
+if (process.env.NODE_ENV === 'production') {
     app.use(express.static(path.resolve('public')))
 } else {
     const corsOptions = {
@@ -46,9 +46,9 @@ app.use('/api/feedItem', feedItemRoutes)
 // it will still serve the index.html file
 // and allow vue/react-router to take it from there
 
-// app.get('/**', (req, res) => {
-//     res.sendFile(path.resolve('public/index.html'))
-// })
+app.get('/**', (req, res) => {
+    res.sendFile(path.resolve('public/index.html'))
+})
 
 import { logger } from './services/logger.service.js'
 const port = process.env.PORT || 3030
