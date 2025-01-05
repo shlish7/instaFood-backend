@@ -75,7 +75,7 @@ async function remove(userId) {
 async function update(user) {
     console.log('user update service',user);
     try {
-        const userToSave = {following: user.following}
+        const userToSave = {following: user.following, followers: user.followers}
         console.log('user to save', userToSave)
         console.log('user._id',user._id);
         const criteria = { _id: ObjectId.createFromHexString(user._id) }
