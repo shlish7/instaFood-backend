@@ -12,7 +12,6 @@ export const userService = {
 }
 
 async function query(filterBy = {}) {
-    console.log('filter service',filterBy);
     const criteria = _buildCriteria(filterBy)
     try {
         const collection = await dbService.getCollection('user')
@@ -22,6 +21,8 @@ async function query(filterBy = {}) {
             user.createdAt = user._id.getTimestamp()
             // Returning fake fresh data
             // user.createdAt = Date.now() - (1000 * 60 * 60 * 24 * 3) // 3 days ago
+
+
             return user
         })
         return users
@@ -75,7 +76,7 @@ async function remove(userId) {
 async function update(user) {
     console.log('user update service',user);
     try {
-        const userToSave = {following: user.following, followers: user.followers}
+        const userToSave = {following: user.following, followers: user.followers, password: user.password}
         console.log('user to save', userToSave)
         console.log('user._id',user._id);
         const criteria = { _id: ObjectId.createFromHexString(user._id) }
@@ -102,7 +103,6 @@ async function save(user) {
 			imgUrl: user.imgUrl,
             following: user.following,
             followers: user.followers
-
 		}
 		const collection = await dbService.getCollection('user')
 		await collection.insertOne(userToAdd)

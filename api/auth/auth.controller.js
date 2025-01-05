@@ -12,8 +12,12 @@ export async function login(req, res) {
 		res.cookie('loginToken', loginToken, { sameSite: 'None', secure: true })
 		res.json(user)
 	} catch (err) {
-		logger.error('Failed to Login ' + err)
-		res.status(401).send({ err: 'Failed to Login' })
+		// logger.error('Failed to Login ' + err)
+		logger.error(err)
+		console.log('err',err);
+		console.log('test err',);
+		// res.status(401).send({ err: 'Failed to Login' })
+		res.status(401).send({ err })
 	}
 }
 
@@ -23,7 +27,6 @@ export async function signup(req, res) {
 
 		// Never log passwords
 		// logger.debug(credentials)
-		
         const account = await authService.signup(credentials)
 		logger.debug(`auth.route - new account created: ` + JSON.stringify(account))
 		
