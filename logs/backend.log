@@ -4968,3 +4968,52 @@
 9.1.2025, 21:55:29 - INFO - Server is running on port: 3030
 9.1.2025, 21:55:45 - INFO - Server is running on port: 3030
 9.1.2025, 21:55:48 - INFO - Server is running on port: 3030
+9.1.2025, 22:08:02 - INFO - /api/feedItem | GET | {} | {} | 673b80d46283ce84e6d0acd8
+9.1.2025, 22:08:03 - ERROR - Cannot Connect to DB | MongoServerError: bad auth : authentication failed | 673b80d46283ce84e6d0acd8
+9.1.2025, 22:08:03 - ERROR - Failed to get Mongo collection | MongoServerError: bad auth : authentication failed | 673b80d46283ce84e6d0acd8
+9.1.2025, 22:08:03 - ERROR - cannot find feedItems | MongoServerError: bad auth : authentication failed | 673b80d46283ce84e6d0acd8
+9.1.2025, 22:08:03 - ERROR - Failed to get feedItems | MongoServerError: bad auth : authentication failed | 673b80d46283ce84e6d0acd8
+9.1.2025, 22:08:03 - ERROR - Cannot Connect to DB | MongoServerError: bad auth : authentication failed | 673b80d46283ce84e6d0acd8
+9.1.2025, 22:08:03 - ERROR - cannot find users | MongoServerError: bad auth : authentication failed | 673b80d46283ce84e6d0acd8
+9.1.2025, 22:08:03 - ERROR - Failed to get users | MongoServerError: bad auth : authentication failed | 673b80d46283ce84e6d0acd8
+9.1.2025, 22:08:03 - ERROR - Failed to get Mongo collection | MongoServerError: bad auth : authentication failed | 673b80d46283ce84e6d0acd8
+9.1.2025, 22:08:04 - ERROR - Cannot Connect to DB | MongoServerError: bad auth : authentication failed | 673b80d46283ce84e6d0acd8
+9.1.2025, 22:08:04 - ERROR - Failed to get users | MongoServerError: bad auth : authentication failed | 673b80d46283ce84e6d0acd8
+9.1.2025, 22:08:04 - ERROR - Failed to get Mongo collection | MongoServerError: bad auth : authentication failed | 673b80d46283ce84e6d0acd8
+9.1.2025, 22:08:04 - ERROR - cannot find users | MongoServerError: bad auth : authentication failed | 673b80d46283ce84e6d0acd8
+9.1.2025, 22:08:21 - INFO - Server is running on port: 3030
+9.1.2025, 22:08:25 - INFO - /api/feedItem | GET | {} | {} | 673b80d46283ce84e6d0acd8
+9.1.2025, 22:08:26 - ERROR - Failed to get Mongo collection | MongoServerError: bad auth : authentication failed | 673b80d46283ce84e6d0acd8
+9.1.2025, 22:08:26 - ERROR - Cannot Connect to DB | MongoServerError: bad auth : authentication failed | 673b80d46283ce84e6d0acd8
+9.1.2025, 22:08:26 - ERROR - cannot find users | MongoServerError: bad auth : authentication failed | 673b80d46283ce84e6d0acd8
+9.1.2025, 22:08:26 - ERROR - Failed to get users | MongoServerError: bad auth : authentication failed | 673b80d46283ce84e6d0acd8
+9.1.2025, 22:08:26 - ERROR - Cannot Connect to DB | MongoServerError: bad auth : authentication failed | 673b80d46283ce84e6d0acd8
+9.1.2025, 22:08:26 - ERROR - Failed to get Mongo collection | MongoServerError: bad auth : authentication failed | 673b80d46283ce84e6d0acd8
+9.1.2025, 22:08:26 - ERROR - cannot find feedItems | MongoServerError: bad auth : authentication failed | 673b80d46283ce84e6d0acd8
+9.1.2025, 22:08:26 - ERROR - Failed to get feedItems | MongoServerError: bad auth : authentication failed | 673b80d46283ce84e6d0acd8
+9.1.2025, 22:08:27 - ERROR - Cannot Connect to DB | MongoServerError: bad auth : authentication failed | 673b80d46283ce84e6d0acd8
+9.1.2025, 22:08:27 - ERROR - Failed to get Mongo collection | MongoServerError: bad auth : authentication failed | 673b80d46283ce84e6d0acd8
+9.1.2025, 22:08:27 - ERROR - cannot find users | MongoServerError: bad auth : authentication failed | 673b80d46283ce84e6d0acd8
+9.1.2025, 22:08:27 - ERROR - Failed to get users | MongoServerError: bad auth : authentication failed | 673b80d46283ce84e6d0acd8
+9.1.2025, 22:08:41 - DEBUG - auth.service - login with username: e | 673b80d46283ce84e6d0acd8
+9.1.2025, 22:08:41 - ERROR - Cannot Connect to DB | MongoServerError: bad auth : authentication failed | 673b80d46283ce84e6d0acd8
+9.1.2025, 22:08:41 - ERROR - MongoServerError: bad auth : authentication failed | 673b80d46283ce84e6d0acd8
+9.1.2025, 22:08:41 - ERROR - Failed to get Mongo collection | MongoServerError: bad auth : authentication failed | 673b80d46283ce84e6d0acd8
+9.1.2025, 22:08:41 - ERROR - while finding user by username: e | MongoServerError: bad auth : authentication failed | 673b80d46283ce84e6d0acd8
+9.1.2025, 22:08:45 - DEBUG - auth.service - login with username: emma_j | 673b80d46283ce84e6d0acd8
+9.1.2025, 22:08:46 - ERROR - Cannot Connect to DB | MongoServerError: bad auth : authentication failed | 673b80d46283ce84e6d0acd8
+9.1.2025, 22:08:46 - ERROR - while finding user by username: emma_j | MongoServerError: bad auth : authentication failed | 673b80d46283ce84e6d0acd8
+9.1.2025, 22:08:46 - ERROR - MongoServerError: bad auth : authentication failed | 673b80d46283ce84e6d0acd8
+9.1.2025, 22:08:46 - ERROR - Failed to get Mongo collection | MongoServerError: bad auth : authentication failed | 673b80d46283ce84e6d0acd8
+9.1.2025, 22:08:48 - DEBUG - auth.service - login with username: emma_j | 673b80d46283ce84e6d0acd8
+9.1.2025, 22:08:49 - ERROR - Cannot Connect to DB | MongoServerError: bad auth : authentication failed | 673b80d46283ce84e6d0acd8
+9.1.2025, 22:08:49 - ERROR - Failed to get Mongo collection | MongoServerError: bad auth : authentication failed | 673b80d46283ce84e6d0acd8
+9.1.2025, 22:08:49 - ERROR - while finding user by username: emma_j | MongoServerError: bad auth : authentication failed | 673b80d46283ce84e6d0acd8
+9.1.2025, 22:08:49 - ERROR - MongoServerError: bad auth : authentication failed | 673b80d46283ce84e6d0acd8
+9.1.2025, 22:08:56 - INFO - Server is running on port: 3030
+9.1.2025, 22:08:59 - DEBUG - auth.service - login with username: emma_j | 673b80d46283ce84e6d0acd8
+9.1.2025, 22:09:00 - INFO - Connect successfully to DB | 673b80d46283ce84e6d0acd8
+9.1.2025, 22:09:00 - INFO - User login:  | {"_id":"673b49605e4aea9bf62a57d6","username":"emma_j","fullname":"Emma Johnson","imgUrl":"https://res.cloudinary.com/dz9gxtvp9/image/upload/v1726938643/cld-sample.jpg","following":["673b80d46283ce84e6d0acd7","673b80d46283ce84e6d0acd8","673b80d46283ce84e6d0acd6","673b80d46283ce84e6333333"],"followers":["673b80d46283ce84e6d0acd8","673b80d46283ce84e6d0acd7","673b80d46283ce84e6d0acdc"]} | 673b80d46283ce84e6d0acd8
+9.1.2025, 22:09:01 - INFO - /api/feedItem | GET | {} | {} | 673b49605e4aea9bf62a57d6
+9.1.2025, 22:10:32 - INFO - Server is running on port: 3030
+9.1.2025, 22:10:34 - INFO - Server is running on port: 3030
