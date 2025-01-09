@@ -5017,3 +5017,14 @@
 9.1.2025, 22:09:01 - INFO - /api/feedItem | GET | {} | {} | 673b49605e4aea9bf62a57d6
 9.1.2025, 22:10:32 - INFO - Server is running on port: 3030
 9.1.2025, 22:10:34 - INFO - Server is running on port: 3030
+9.1.2025, 22:16:47 - INFO - Server is running on port: 3030
+9.1.2025, 22:16:48 - INFO - Server is running on port: 3030
+9.1.2025, 22:16:51 - INFO - /api/feedItem | GET | {} | {"id":"675b02294e56577ed9634d24"} | 673b49605e4aea9bf62a57d6
+9.1.2025, 22:16:51 - INFO - /api/feedItem | GET | {} | {} | 673b49605e4aea9bf62a57d6
+9.1.2025, 22:16:52 - INFO - Connect successfully to DB | 673b49605e4aea9bf62a57d6
+9.1.2025, 22:16:52 - INFO - Connect successfully to DB | 673b49605e4aea9bf62a57d6
+9.1.2025, 22:16:52 - INFO - Connect successfully to DB | 673b49605e4aea9bf62a57d6
+9.1.2025, 22:16:59 - INFO - /api/feedItem | GET | {} | {"id":"675b02294e56577ed9634d24"} | 673b49605e4aea9bf62a57d6
+9.1.2025, 22:16:59 - INFO - /api/feedItem | GET | {} | {} | 673b49605e4aea9bf62a57d6
+9.1.2025, 22:19:24 - INFO - Server is running on port: 3030
+9.1.2025, 22:19:25 - INFO - Server is running on port: 3030
