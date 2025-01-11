@@ -5028,3 +5028,36 @@
 9.1.2025, 22:16:59 - INFO - /api/feedItem | GET | {} | {} | 673b49605e4aea9bf62a57d6
 9.1.2025, 22:19:24 - INFO - Server is running on port: 3030
 9.1.2025, 22:19:25 - INFO - Server is running on port: 3030
+9.1.2025, 22:19:52 - INFO - Server is running on port: 3030
+9.1.2025, 22:20:04 - INFO - Server is running on port: 3030
+9.1.2025, 22:20:16 - INFO - /api/feedItem | GET | {} | {} | 673b49605e4aea9bf62a57d6
+9.1.2025, 22:20:17 - INFO - Connect successfully to DB | 673b49605e4aea9bf62a57d6
+9.1.2025, 22:20:17 - INFO - Connect successfully to DB | 673b49605e4aea9bf62a57d6
+9.1.2025, 22:20:20 - INFO - /api/feedItem | GET | {} | {} | 673b49605e4aea9bf62a57d6
+9.1.2025, 22:20:22 - INFO - /api/feedItem | GET | {} | {} | 673b49605e4aea9bf62a57d6
+9.1.2025, 22:20:24 - INFO - /api/feedItem | GET | {} | {} | 673b49605e4aea9bf62a57d6
+9.1.2025, 22:30:42 - INFO - /api/feedItem | GET | {} | {} | 673b49605e4aea9bf62a57d6
+10.1.2025, 11:33:27 - INFO - /api/feedItem | GET | {} | {} | 673b49605e4aea9bf62a57d6
+10.1.2025, 11:51:03 - ERROR - while finding user by id: 673b49605e4aea9bf62a57d6 | Error: read ECONNRESET | 673b49605e4aea9bf62a57d6
+10.1.2025, 11:51:03 - ERROR - Failed to get user | Error: read ECONNRESET | 673b49605e4aea9bf62a57d6
+11.1.2025, 0:32:32 - INFO - /api/feedItem | GET | {} | {} | 673b49605e4aea9bf62a57d6
+11.1.2025, 0:33:34 - ERROR - cannot find users | MongoServerSelectionError: getaddrinfo ENOTFOUND instafoodcluster-shard-00-01.x6og4.mongodb.net | 673b49605e4aea9bf62a57d6
+11.1.2025, 0:33:34 - ERROR - Failed to get users | MongoServerSelectionError: getaddrinfo ENOTFOUND instafoodcluster-shard-00-01.x6og4.mongodb.net | 673b49605e4aea9bf62a57d6
+11.1.2025, 0:33:34 - ERROR - cannot find feedItems | MongoServerSelectionError: getaddrinfo ENOTFOUND instafoodcluster-shard-00-01.x6og4.mongodb.net | 673b49605e4aea9bf62a57d6
+11.1.2025, 0:33:34 - ERROR - Failed to get feedItems | MongoServerSelectionError: getaddrinfo ENOTFOUND instafoodcluster-shard-00-01.x6og4.mongodb.net | 673b49605e4aea9bf62a57d6
+11.1.2025, 0:33:34 - ERROR - while finding user by id: 673b49605e4aea9bf62a57d6 | MongoServerSelectionError: getaddrinfo ENOTFOUND instafoodcluster-shard-00-01.x6og4.mongodb.net | 673b49605e4aea9bf62a57d6
+11.1.2025, 0:33:34 - ERROR - Failed to get user | MongoServerSelectionError: getaddrinfo ENOTFOUND instafoodcluster-shard-00-01.x6og4.mongodb.net | 673b49605e4aea9bf62a57d6
+11.1.2025, 19:04:05 - INFO - /api/feedItem | GET | {} | {} | 673b49605e4aea9bf62a57d6
+11.1.2025, 19:13:54 - INFO - /api/feedItem | GET | {} | {} | 673b49605e4aea9bf62a57d6
+11.1.2025, 19:16:44 - INFO - /api/feedItem | GET | {} | {} | 673b49605e4aea9bf62a57d6
+11.1.2025, 19:19:38 - INFO - /api/feedItem | GET | {} | {} | 673b49605e4aea9bf62a57d6
+11.1.2025, 19:30:29 - INFO - /api/feedItem | GET | {} | {} | 673b49605e4aea9bf62a57d6
+11.1.2025, 19:34:29 - INFO - /api/feedItem | GET | {} | {} | 673b49605e4aea9bf62a57d6
+11.1.2025, 19:34:39 - INFO - /api/feedItem | GET | {} | {} | 673b49605e4aea9bf62a57d6
+11.1.2025, 19:35:55 - INFO - /api/feedItem | GET | {} | {} | 673b49605e4aea9bf62a57d6
+11.1.2025, 19:37:27 - INFO - /api/feedItem | GET | {} | {} | 673b49605e4aea9bf62a57d6
+11.1.2025, 19:41:10 - INFO - /api/feedItem | GET | {} | {} | 673b49605e4aea9bf62a57d6
+11.1.2025, 19:46:03 - INFO - /api/feedItem | GET | {} | {} | 673b49605e4aea9bf62a57d6
+11.1.2025, 19:47:45 - INFO - Server is running on port: 3030
+11.1.2025, 19:47:55 - INFO - Server is running on port: 3030
+11.1.2025, 19:48:03 - INFO - Server is running on port: 3030
