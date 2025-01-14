@@ -5093,3 +5093,58 @@
 14.1.2025, 15:05:36 - INFO - Server is running on port: 3030
 14.1.2025, 15:05:38 - INFO - Server is running on port: 3030
 14.1.2025, 15:06:03 - INFO - Server is running on port: 3030
+14.1.2025, 15:07:05 - INFO - Server is running on port: 3030
+14.1.2025, 15:07:18 - INFO - /api/feedItem | GET | {} | {} | 673b49605e4aea9bf62a57d6
+14.1.2025, 15:07:19 - ERROR - Cannot Connect to DB | MongoServerError: bad auth : authentication failed | 673b49605e4aea9bf62a57d6
+14.1.2025, 15:07:19 - ERROR - Failed to get Mongo collection | MongoServerError: bad auth : authentication failed | 673b49605e4aea9bf62a57d6
+14.1.2025, 15:07:19 - ERROR - Failed to get Mongo collection | MongoServerError: bad auth : authentication failed | 673b49605e4aea9bf62a57d6
+14.1.2025, 15:07:19 - ERROR - while finding user by id: 673b49605e4aea9bf62a57d6 | MongoServerError: bad auth : authentication failed | 673b49605e4aea9bf62a57d6
+14.1.2025, 15:07:19 - ERROR - Failed to get user | MongoServerError: bad auth : authentication failed | 673b49605e4aea9bf62a57d6
+14.1.2025, 15:07:19 - ERROR - cannot find users | MongoServerError: bad auth : authentication failed | 673b49605e4aea9bf62a57d6
+14.1.2025, 15:07:19 - ERROR - Failed to get users | MongoServerError: bad auth : authentication failed | 673b49605e4aea9bf62a57d6
+14.1.2025, 15:07:19 - ERROR - Cannot Connect to DB | MongoServerError: bad auth : authentication failed | 673b49605e4aea9bf62a57d6
+14.1.2025, 15:07:19 - ERROR - Cannot Connect to DB | MongoServerError: bad auth : authentication failed | 673b49605e4aea9bf62a57d6
+14.1.2025, 15:07:19 - ERROR - Failed to get Mongo collection | MongoServerError: bad auth : authentication failed | 673b49605e4aea9bf62a57d6
+14.1.2025, 15:07:19 - ERROR - cannot find feedItems | MongoServerError: bad auth : authentication failed | 673b49605e4aea9bf62a57d6
+14.1.2025, 15:07:19 - ERROR - Failed to get feedItems | MongoServerError: bad auth : authentication failed | 673b49605e4aea9bf62a57d6
+14.1.2025, 15:07:27 - INFO - /api/feedItem | GET | {} | {} | 673b49605e4aea9bf62a57d6
+14.1.2025, 15:07:28 - ERROR - Cannot Connect to DB | MongoServerError: bad auth : authentication failed | 673b49605e4aea9bf62a57d6
+14.1.2025, 15:07:28 - ERROR - Failed to get Mongo collection | MongoServerError: bad auth : authentication failed | 673b49605e4aea9bf62a57d6
+14.1.2025, 15:07:28 - ERROR - Failed to get users | MongoServerError: bad auth : authentication failed | 673b49605e4aea9bf62a57d6
+14.1.2025, 15:07:28 - ERROR - cannot find users | MongoServerError: bad auth : authentication failed | 673b49605e4aea9bf62a57d6
+14.1.2025, 15:07:28 - ERROR - Failed to get feedItems | MongoServerError: bad auth : authentication failed | 673b49605e4aea9bf62a57d6
+14.1.2025, 15:07:28 - ERROR - Failed to get Mongo collection | MongoServerError: bad auth : authentication failed | 673b49605e4aea9bf62a57d6
+14.1.2025, 15:07:28 - ERROR - Cannot Connect to DB | MongoServerError: bad auth : authentication failed | 673b49605e4aea9bf62a57d6
+14.1.2025, 15:07:28 - ERROR - cannot find feedItems | MongoServerError: bad auth : authentication failed | 673b49605e4aea9bf62a57d6
+14.1.2025, 15:07:37 - INFO - Server is running on port: 3030
+14.1.2025, 15:07:42 - INFO - /api/feedItem | GET | {} | {} | 673b49605e4aea9bf62a57d6
+14.1.2025, 15:07:43 - INFO - Connect successfully to DB | 673b49605e4aea9bf62a57d6
+14.1.2025, 15:07:43 - INFO - Connect successfully to DB | 673b49605e4aea9bf62a57d6
+14.1.2025, 15:17:25 - INFO - /api/feedItem | GET | {} | {} | 673b49605e4aea9bf62a57d6
+14.1.2025, 15:17:54 - INFO - /api/feedItem | GET | {} | {} | 673b49605e4aea9bf62a57d6
+14.1.2025, 15:17:55 - INFO - /api/feedItem | GET | {} | {} | 673b49605e4aea9bf62a57d6
+14.1.2025, 15:18:07 - INFO - /api/feedItem | GET | {} | {} | 673b49605e4aea9bf62a57d6
+14.1.2025, 15:18:16 - INFO - /api/feedItem | GET | {} | {} | 673b49605e4aea9bf62a57d6
+14.1.2025, 15:18:23 - INFO - /api/feedItem | GET | {} | {} | 673b49605e4aea9bf62a57d6
+14.1.2025, 15:18:51 - INFO - /api/feedItem | GET | {} | {} | 673b49605e4aea9bf62a57d6
+14.1.2025, 15:18:53 - INFO - /api/feedItem | GET | {} | {} | 673b49605e4aea9bf62a57d6
+14.1.2025, 15:19:10 - INFO - /api/feedItem | GET | {} | {} | 673b49605e4aea9bf62a57d6
+14.1.2025, 15:20:07 - INFO - /api/feedItem | GET | {} | {} | 673b49605e4aea9bf62a57d6
+14.1.2025, 15:23:44 - INFO - /api/feedItem | GET | {} | {} | 673b49605e4aea9bf62a57d6
+14.1.2025, 15:26:25 - INFO - /api/feedItem | GET | {} | {} | 673b49605e4aea9bf62a57d6
+14.1.2025, 15:27:24 - INFO - /api/feedItem | GET | {} | {} | 673b49605e4aea9bf62a57d6
+14.1.2025, 15:29:40 - INFO - /api/feedItem | GET | {} | {} | 673b49605e4aea9bf62a57d6
+14.1.2025, 15:29:48 - INFO - /api/feedItem | GET | {} | {} | 673b49605e4aea9bf62a57d6
+14.1.2025, 15:30:03 - INFO - /api/feedItem | GET | {} | {} | 673b49605e4aea9bf62a57d6
+14.1.2025, 15:30:09 - INFO - /api/feedItem | GET | {} | {} | 673b49605e4aea9bf62a57d6
+14.1.2025, 15:32:55 - INFO - /api/feedItem | GET | {} | {} | 673b49605e4aea9bf62a57d6
+14.1.2025, 15:33:05 - DEBUG - auth.service - login with username: noah_will | 673b49605e4aea9bf62a57d6
+14.1.2025, 15:33:06 - INFO - User login:  | {"_id":"673b80d46283ce84e6d0acd8","fullname":"Noah Williams","imgUrl":"https://res.cloudinary.com/dz9gxtvp9/image/upload/v1726938643/samples/upscale-face-1.jpg","username":"noah_will","following":["673b80d46283ce84e6222222"],"followers":["673b80d46283ce84e6d04444","673b80d46283ce84e6333333"]} | 673b49605e4aea9bf62a57d6
+14.1.2025, 15:33:06 - INFO - /api/feedItem | GET | {} | {} | 673b80d46283ce84e6d0acd8
+14.1.2025, 15:33:09 - INFO - /api/feedItem | GET | {} | {} | 673b80d46283ce84e6d0acd8
+14.1.2025, 15:33:11 - INFO - /api/feedItem | GET | {} | {} | 673b80d46283ce84e6d0acd8
+14.1.2025, 15:33:13 - INFO - /api/feedItem | GET | {} | {} | 673b80d46283ce84e6d0acd8
+14.1.2025, 15:35:12 - INFO - /api/feedItem | GET | {} | {} | 673b80d46283ce84e6d0acd8
+14.1.2025, 15:40:19 - INFO - Server is running on port: 3030
+14.1.2025, 15:40:21 - INFO - Server is running on port: 3030
+14.1.2025, 15:40:33 - INFO - Server is running on port: 3030
